@@ -17,7 +17,7 @@ O script acessa a página inicial do G1, extrai a notícia mais recente e salva 
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/rpa_project.git
+   git clone https://github.com/diogoMPavan/rpa_project.git
    cd rpa_project
    ```
 
