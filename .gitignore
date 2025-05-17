@@ -1,0 +1,20 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+
+# Arquivos de saída
+*.xlsx
+*.json
+
+# Configurações do VSCode
+.vscode/
