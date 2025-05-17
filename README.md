@@ -1,4 +1,4 @@
-```markdown
+
 # RPA Project - Coletor de Notícias do G1
 
 Este projeto realiza a coleta automática da notícia mais recente do portal [G1](https://g1.globo.com/), salvando o título, data de publicação e resumo em arquivos `.json` e `.xlsx`.
