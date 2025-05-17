@@ -1,4 +1,3 @@
-
 # RPA Project - Coletor de Notícias do G1
 
 Este projeto realiza a coleta automática da notícia mais recente do portal [G1](https://g1.globo.com/), salvando o título, data de publicação e resumo em arquivos `.json` e `.xlsx`.
@@ -18,7 +17,7 @@ O script acessa a página inicial do G1, extrai a notícia mais recente e salva 
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/rpa_project.git
+   git clone https://github.com/diogoMPavan/rpa_project.git
    cd rpa_project
    ```
 
